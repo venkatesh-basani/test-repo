@@ -1,6 +1,6 @@
 provider "google" {
   project     = "promising-balm-470808-m6"
-  credentials = file("c:/Users/hr440/Downloads/promising-balm-470808-m6-b506a2693c19.json")
+ # credentials = file("c:/Users/hr440/Downloads/promising-balm-470808-m6-b506a2693c19.json")
   region      = "us-central1"
   zone        = "us-central1-a"
 }
